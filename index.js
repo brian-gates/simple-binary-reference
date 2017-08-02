@@ -12,4 +12,4 @@ const getOutput = (done) => {
   });
 };
 
-exports = getOutput;
+module.exports = getOutput;
